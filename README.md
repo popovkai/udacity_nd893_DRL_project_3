@@ -37,7 +37,9 @@ Run `Tennis.ipynb` for step-by-step details.
 
 `model.py` contains neural network classes for Actor and Critic functional approximatior.
 
-`MADDPG_agent.py` is the implementation of Multi Agent Deep Deterministic Policy Gradients (MADDPG) [paper](https://papers.nips.cc/paper/7217-multi-agent-actor-critic-for-mixed-cooperative-competitive-environments.pdf). In this model every agent itself is modeled as a Deep Deterministic Policy Gradient (DDPG) agent [paper](https://arxiv.org/pdf/1509.02971.pdf)
+`MADDPG_agent.py` is the implementation of Multi Agent Deep Deterministic Policy Gradients (MADDPG) [paper](https://papers.nips.cc/paper/7217-multi-agent-actor-critic-for-mixed-cooperative-competitive-environments.pdf).
+
+In this model every agent itself is modeled as a Deep Deterministic Policy Gradient (DDPG) agent [paper](https://arxiv.org/pdf/1509.02971.pdf)
 
 ## Report
 
